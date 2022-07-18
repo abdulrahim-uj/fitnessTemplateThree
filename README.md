@@ -1,0 +1,2 @@
+# fitnessTemplateThree
+Responsive static design
